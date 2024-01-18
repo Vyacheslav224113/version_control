@@ -36,3 +36,9 @@ git diff
 ```
 
 [Ссылка на источник](https://proglib.io/p/git-for-half-an-hour)
+
+### Добавление изображения 
+
+Чтобы добавить изображение необхадиос сделать следующее.
+![Изображение космоса](kosmicheskoe_prostranstvo_sozvezdie_zvezdy_122977_1920x1080.jpg)
+
